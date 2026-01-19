@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Academic projects, DSA practice, and Python-based ML learning<br><br>👯 I’m looking to collaborate on:<br>Beginner-friendly Python, ML, and open-source projects<br><br>🤝 I’m looking for help with:<br>Machine Learning concepts and writing optimized code<br><br>🌱 I’m currently learning:<br>Machine Learning, Python for AI, and advanced data structures<br><br>💬 Ask me about:<br>C++, Python basics, SQL, and data structures<br><br>⚡ Fun fact:<br>I enjoy debugging more than writing code 
+🔭 I’m currently working on Academic projects, DSA practice, and Python-based ML learning<br>👯 I’m looking to collaborate on Beginner-friendly Python, ML, and open-source projects<br>🤝 I’m looking for help with Machine Learning concepts and writing optimized code<br>🌱 I’m currently learning Machine Learning, Python for AI, and advanced data structures<br>💬 Ask me about C++, Python basics, SQL, and data structures<br>⚡ Fun fact that I enjoy debugging more than writing code 
 
 
 ## 🌐 Socials:
