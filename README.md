@@ -22,6 +22,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=MaidaAmjad&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=MaidaAmjad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
